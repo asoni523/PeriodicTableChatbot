@@ -2,7 +2,8 @@
 # voice-enabled assistant that helps users learn about chemical 
 # elements in a conversational way.
 # 
-# Created By: Anil Soni
+# Please cite this work if used in projects, research, or publications.
+# Author: Anil Kumar Soni
 # Created: Aug 18, 2025
 # Updated: Sep 04, 2025
 
