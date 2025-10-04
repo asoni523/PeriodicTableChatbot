@@ -18,6 +18,7 @@ Built with **Python**, it provides an interactive way to ask questions about ele
   ```bash
   pip install pygame openai speechrecognition
 - set OPENAI_API_KEY environment varoable
+  ```bash
   setx OPENAI_API_KEY "your_api_key_here"  //windows
   export OPENAI_API_KEY="your_api_key_here" //Linux or macOS
 
