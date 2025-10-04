@@ -35,5 +35,10 @@ PeriodicTableChatbot/
 ## License
 # This project is licensed under the MIT License – feel free to use, modify, and share.
 
+## Citing this Project
+If you use, modify, or distribute this code in any form, please cite the original author:
+Anil Kumar Soni. *Periodic Table AI Chatbot*. GitHub repository: https://github.com/asoni523/PeriodicTableChatbot
+
+
 
 
